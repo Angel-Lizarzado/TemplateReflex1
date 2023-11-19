@@ -1,0 +1,5 @@
+
+version: 1
+buildCommand:
+  - pip install --upgrade pip
+  - pip install --upgrade reflex
